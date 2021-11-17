@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596246438246",
+    "project_id": "sapient-cleartodo",
+    "storage_bucket": "sapient-cleartodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596246438246:android:de4a8e229bed94731fe8a7",
+        "android_client_info": {
+          "package_name": "com.example.sapient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596246438246-t8auj7ufue62it9bjfdn23q2q4qdo567.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIxCwqp-o6c47Q_zIVgCmSdRqiI2VLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596246438246-t8auj7ufue62it9bjfdn23q2q4qdo567.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
